@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+
+	
+ #banner_wrap {
+  background:red; 
+  width:100%; 
+  height:576px;
+  float:left;
+  }
+  
+  .isari {margin:264px auto auto 34px; }
+  .isarii {margin:264px auto auto 1230px; }
+ 
+ .signs ,menu ,text {
+	
+	 margin:20px auto 0 auto;
+	 width:1024px;
+     text-align:right;
+	 font-size:14px;
+	 font-family:helvetica;
+	 src:url(../font/Helvetica.ttf)
+	 
+	 
+ }
+  
+  ul {
+    list-style-type: none;
+    margin: 200px 50px  auto auto ;
+}
+li {
+    display: inline;
+	margin:auto 100px auto auto;
+	
+	}
+li:nth-of-type(9n)
+{margin:0px;
+}
+	
+
+.menu {
+width:954px;
+margin:0 auto 0 auto;}
+
+el {margin:auto 30px auto 0;}
+.ilus {margin:auto auto auto 0;}
+.ilus:nth-of-type(4n)
+{margin:auto auto auto 53%;
+}
+
+
+.clearfix {overflow:auto;
+zoom:1; clear:both;}
+
+article {width:956px;
+margin:106px auto 0 190px;}
+
+.container
+{
+   
+    width:206px;
+    position:relative;
+   height:116px;
+   display:inline-block;
+   margin:auto 38px 38px auto;
+}
+.container:nth-of-type(4n)
+{margin:auto 0 auto auto
+}
+.image
+{    
+  
+    left:0;
+    top:0;
+	
+}
+.box {
+   
+    background:blue;
+    opacity:0.8;
+   height:30px;
+    position: absolute;
+    bottom: 0px;
+	width:206px;
+   
+}
+	
+.text
+{
+    z-index:100; 
+    color:white;
+    font-size:12px;
+    font-weight:bold;
+opacity:100;
+   
+}
+
+
+
+
+
+.ani {position: relative; }
+ 
+
+
+aside {width:956px;
+margin:100px  auto 0 auto;
+
+
+}
+.ujrebi {
+   width:456px;
+   height:116px;
+   margin: 0 39px 39px 0;
+   display:inline-block;
+   
+   }
+   .ujrebi:nth-of-type(2n)
+{margin:0 0 39px 0;;
+}
+.bevri {
+   width:206px;
+   height:116px;
+   margin: 0 39px 39px 0;
+   display:inline-block;
+}
+.bevri:nth-of-type(4n)
+{margin:0 0 39px 0;
+}
+.boloebi {width:100p%;
+height:40px;
+background:blue;
+margin:100px  
+float:left;
+}
+.logo { margin: auto 0 auto 800px; }
